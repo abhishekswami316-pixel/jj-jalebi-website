@@ -12,13 +12,13 @@ try {
     // If database not available, use default products
     $products = [
         ['id' => 1, 'name' => 'Fresh Jalebi', 'description' => 'Crispy, juicy, and soaked in sugar syrup - made fresh daily', 'price' => 150, 'image' => ''],
-        ['id' => 2, 'name' => 'Besan Laddu', 'description' => 'Melt in your mouth laddus made with gram flour and ghee', 'price' => 200, 'image' => ''],
-        ['id' => 3, 'name' => 'Gulab Jamun', 'description' => 'Soft dough balls soaked in rose-flavored sugar syrup', 'price' => 180, 'image' => ''],
-        ['id' => 4, 'name' => 'Rasgulla', 'description' => 'Spongy cottage cheese balls in light sugar syrup', 'price' => 220, 'image' => ''],
-        ['id' => 5, 'name' => 'Motichoor Laddu', 'description' => 'Tiny pearl-like laddu with premium quality ingredients', 'price' => 250, 'image' => ''],
-        ['id' => 6, 'name' => 'Jalebi Combo Pack', 'description' => 'A combo of fresh jalebi and gulab jamun', 'price' => 300, 'image' => ''],
-        ['id' => 7, 'name' => 'Kaju Katli', 'description' => 'Premium cashew fudge with silver foil', 'price' => 400, 'image' => ''],
-        ['id' => 8, 'name' => 'Barfi Mix', 'description' => 'Assorted barfis - milk, peda, and coconut', 'price' => 280, 'image' => '']
+        ['id' => 2, 'name' => 'Mawa Jalebi', 'description' => 'Our signature dark, rich, and juicy jalebi made with mawa - a Vasai favorite', 'price' => 200, 'image' => ''],
+        ['id' => 3, 'name' => 'Malpua with Rabdi', 'description' => 'Deep-fried sweet pancakes served with thick, creamy rabdi', 'price' => 180, 'image' => ''],
+        ['id' => 4, 'name' => 'Gulab Jamun', 'description' => 'Soft dough balls soaked in rose-flavored sugar syrup', 'price' => 180, 'image' => ''],
+        ['id' => 5, 'name' => 'Fafda', 'description' => 'Crispy chickpea flour snacks best enjoyed with jalebi', 'price' => 120, 'image' => ''],
+        ['id' => 6, 'name' => 'Rabdi', 'description' => 'Rich, creamy sweetened condensed milk with pistachios and almonds', 'price' => 160, 'image' => ''],
+        ['id' => 7, 'name' => 'Jalebi Combo Pack', 'description' => 'A combo of fresh jalebi and gulab jamun', 'price' => 300, 'image' => ''],
+        ['id' => 8, 'name' => 'Motichoor Laddu', 'description' => 'Tiny pearl-like laddu with premium quality ingredients', 'price' => 250, 'image' => '']
     ];
 }
 ?>
